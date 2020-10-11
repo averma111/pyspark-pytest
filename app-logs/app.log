@@ -1,0 +1,5 @@
+20/10/10 20:42:29 INFO <aap-pyspark-pytest local-1602387749276>: Starting pyspark application
+20/10/10 20:42:30 INFO <aap-pyspark-pytest local-1602387749276>: Creating the dataframe from Row data
+20/10/10 20:42:31 INFO <aap-pyspark-pytest local-1602387749276>: Dataframe with old date format
+20/10/10 20:42:32 INFO <aap-pyspark-pytest local-1602387749276>: Dataframe with new date format
+20/10/10 20:42:32 INFO <aap-pyspark-pytest local-1602387749276>: Stopping pyspark application
